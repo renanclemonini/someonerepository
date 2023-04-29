@@ -4,9 +4,6 @@
  */
 package renan.gestaomdc.app;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  *
  * @author Acer
@@ -19,7 +16,7 @@ public class Main {
         
         Servico s1 = new Servico(0, "Design de Sobrancelhas com Henna", 45, 45, 1);
         
-        Vendas v1 = new Vendas(0, c1, s1);
+//        Vendas v1 = new Vendas(0, c1, s1);
         
         System.out.println("""
                            Vendas: 
